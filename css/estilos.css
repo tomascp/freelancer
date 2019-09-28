@@ -1,4 +1,7 @@
-
+*{
+    margin: 0px;
+    padding: 0px;
+}
 
 
 header{
@@ -10,7 +13,6 @@ header{
    
 li{
     display: inline-block;
-
     left: 75%;
     bottom: 80px;
     padding: 20px;
@@ -24,14 +26,25 @@ li{
     color: white;
 }
 
+*/
 
-
-/*
 .uno{
     background-color: rgb(41, 128, 101);
-    padding: 13%; 
+    padding: 0px; 
     margin: 0px;
 }
+
+
+.imagen{
+    text-align: center;
+
+}
+
+.centro{
+    text-align: center;
+    color: white;
+}
+/*
 .dos{
     background-color: white;
     padding: 13%; 
