@@ -1,0 +1,45 @@
+
+
+
+header{
+    background-color: rgb(25, 54, 80);
+   
+    color: white;
+
+}
+   
+li{
+    display: inline-block;
+
+    left: 75%;
+    bottom: 80px;
+    padding: 20px;
+}
+
+/*
+.logo{
+    position: relative;
+    bottom: 8px;
+    left: 35px;
+    color: white;
+}
+
+
+
+/*
+.uno{
+    background-color: rgb(41, 128, 101);
+    padding: 13%; 
+    margin: 0px;
+}
+.dos{
+    background-color: white;
+    padding: 13%; 
+    margin: 0px;
+}
+.tres{
+    background-color: rgb(85, 98, 170);
+    padding: 13%; 
+    margin: 0px;
+}
+*/
